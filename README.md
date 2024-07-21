@@ -1,5 +1,5 @@
 ## Summary
-Experienced Senior Software Engineer with 18+ years in backend and data engineering. Proven track record in scaling teams, implementing robust CI/CD pipelines, and advocating for remote work. Skilled in Python, FastAPI, AWS services, and mentoring engineering teams. I love to play No Limit Texas Hold'em poker. Let's gamble. 
+Experienced Senior Software Engineer specialized in backend and data engineering with over 18 years of experience. Proven track record in scaling teams, implementing robust CI/CD pipelines, and advocating for remote work. Skilled in Python, FastAPI, AWS services, and mentoring engineering teams. I love to play No Limit Texas Hold'em poker. Let's gamble. 
 
 ## Experience
 
