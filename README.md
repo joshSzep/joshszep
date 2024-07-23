@@ -1,54 +1,75 @@
-## Summary
-Experienced Senior Software Engineer specialized in backend and data engineering with over 18 years of experience. Proven track record in scaling teams, implementing robust CI/CD pipelines, and advocating for remote work. Skilled in Python, FastAPI, AWS services, and mentoring engineering teams. I love to play No Limit Texas Hold'em poker. Let's gamble. 
+# Joshua Szepietowski
 
-## Experience
+**Senior Software Engineer**  
+Los Angeles, CA - [joshszep@gmail.com](mailto:joshszep@gmail.com) - [linkedin.com/in/joshszep](https://www.linkedin.com/in/joshszep)
 
-### Kintsugi— Senior Software Engineer Consultant
-*March 2024 - June 2024*
-- Grew and mentored a remote team of 9 engineers across multiple countries.
-- Lead the architecture and implementation of core backend services for sales tax filings and exemptions.
-- Introduced CI/CD processes enhancing code quality and deployment efficiency.
+## Hello, I’m Josh!
 
-### Telesign— Senior Software Engineer
-*June 2020 - March 2024*
-- Founding member of the Data Solutions Team, scaling it to 9 members.
-- Built an API service for user trust scoring from scratch using Python3 and FastAPI.
-- Developed CI/CD pipelines using AWS ECS and Terraform, automating deployments.
+Senior Software Engineer with 18+ years of experience. I’m particularly confident in using Python for backend and data engineering. I advocate for remote work, leveraging AI, and fixing the technical interview. My passion is solving real-world problems using software. I thrive when given autonomy and ownership in a fast-moving environment.
 
-### Ordermark— Senior Software Engineer
-*May 2019 - February 2020*
-- Led efforts to increase automated test code coverage and upgraded the Python codebase from version 2.7 to 3+.
-- Developed and deployed microservices using Docker and AWS, facilitating seamless integration and scalability.
+## EXPERIENCE
 
-### Yelp— Software Engineer
-*September 2014 - January 2019*
-- Developed the Automated Transaction Service component of Yelp's Data Pipeline infrastructure.
-- Enhanced performance by integrating PyPy into Yelp's monolithic codebase.
-- Mentored engineers and participated in the hiring process.
+### Kintsugi - Remote
+**Senior Software Engineer Consultant**  
+MARCH 2024 - JUNE 2024
+- Grew and led a fully remote team of 9 engineers across the USA, South Asia, and Vietnam.
+- Architected and implemented backend REST API services for core product features.
+- Introduced CI/CD processes for linting, formatting, type-checking, and automated testing of a Python FastAPI codebase, resulting in a 50% increase in deployment efficiency.
+- Deployed to AWS Lambda resulting in 90% cost savings for Kintsugi’s unique traffic patterns.
 
-### Springbox— Senior Developer
-*May 2013 - August 2014*
-- Developed a full-stack application for Dell using C#, ASP.NET, T-SQL, and JavaScript.
+### Telesign - Remote
+**Senior Software Engineer**  
+JUNE 2020 - MARCH 2024
+- First hire on the Data Solutions Team, growing it to 9 members.
+- Architected and developed REST API microservices using Python, FastAPI, and Redis to provide B2B user trust scores from machine learning (ML) models.
+- Scaled services deployed to AWS to handle 10,000 requests per second with under 40ms latency.
+- Provided leadership across multiple teams to coordinate successful deliveries on tight timelines.
 
-### Hotlease— Technical Co-Founder / CTO
-*March 2013 - April 2013*
-- Gained valuable insights into startup challenges while attempting to build a lease marketplace platform.
+### Ordermark - Los Angeles, CA
+**Senior Software Engineer**  
+FEBRUARY 2019 - MAY 2020
+- Led effort to create automated tests resulting in 50% fewer defects.
+- Designed and implemented integrations with Point of Sale systems.
+- Owned migration from GCP AppEngine to Django on AWS.
 
-### Fitposse— Senior Engineer
-*November 2012 - February 2013*
-- Built a social classroom fitness education web application as the first engineer in a fully distributed team.
+### Yelp - San Francisco, CA
+**Senior Software Engineer**  
+SEPTEMBER 2014 - JANUARY 2019
+- Maintained mission-critical AWS Redshift Data Warehouse ETL infrastructure.
+- Founding member of Yelp’s Data Pipeline Team which designed, implemented, and maintained a novel streaming data infrastructure leveraging Apache Kafka, Python, and Docker.
+- Executed a project to support PyPy in Yelp’s core codebase, enhancing performance by 150%.
+- Mentored, reviewed code, and interviewed new engineers, fostering a collaborative team environment.
 
-### Intific— Software Engineer
-*August 2009 - November 2012*
-- Developed unclassified training simulations for DARPA and USAF using C++, C#/.NET, Lua, Python, and JavaScript.
+### Springbox - Austin, TX
+**Senior Software Engineer**  
+MAY 2013 - AUGUST 2014
+- Sole developer on a full stack application for Dell using C#, SQL, and Javascript.
 
-### KingsIsle Entertainment— Software Engineer
-*July 2006 - August 2009*
-- Contributed to core technology development using C++, C#/.NET, Lua, and Python.
+### Hotlease - Austin, TX
+**Technical Co-Founder / CTO**  
+NOVEMBER 2012 - APRIL 2013
+- Co-founded and led technical development for a lease marketplace startup.
 
-## Education
-- **The Guildhall at Southern Methodist University** — MS Equiv, Video Game Software Development, 2005 - 2007
-- **Stark State College** — AS, Computer Science: Interactive Design, 2002 - 2005
+### Intific - Austin, TX
+**Software Engineer**  
+AUGUST 2009 - NOVEMBER 2012
+- Developed desktop training simulations for DARPA and USAF using C++, C#, and Python.
 
-## Skills
-- Python, FastAPI, Django, CI/CD, AWS (Lambda, ECS, Fargate, S3, ECR, DynamoDB, Redshift, RDS), Docker, Terraform, SQL, PostgreSQL, MySQL, Redis, Kafka, Jenkins, Git, Mentoring, Team Building, Generative AI, Code Reviews, Interviewing.
+### KingsIsle Entertainment - Austin, TX
+**Software Engineer**  
+JULY 2006 - AUGUST 2009
+- Engineer on the core technology team, using C++, C#, and Python.
+
+## EDUCATION
+
+**The Guildhall at Southern Methodist University**, Dallas, TX  
+2005 - 2007
+
+**Stark State College of Technology**, North Canton, OH  
+2005 - 2007
+
+## SKILLS
+
+**Languages:** Python, SQL, Terraform, Javascript  
+**Technologies:** AWS, Docker, Django, FastAPI, Kafka, Git, PostgreSQL, Redis, AI  
+**Soft Skills:** Mentoring, Team Building, Code Reviews, Interviewing, Leadership
