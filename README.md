@@ -9,7 +9,7 @@ Senior Software Engineer with 18+ years of experience. I’m particularly confid
 
 ## EXPERIENCE
 
-### [Kintsugi](https://www.linkedin.com/company/kintsugi-ai/mycompany/) - Remote
+### [Kintsugi AI](https://www.linkedin.com/company/kintsugi-ai/) - Remote
 **Senior Software Engineer Consultant**  
 MARCH 2024 - JUNE 2024
 - Grew and led a fully remote team of 9 engineers across the USA, South Asia, and Vietnam.
