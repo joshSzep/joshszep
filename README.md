@@ -9,7 +9,7 @@ Senior Software Engineer with 18+ years of experience. I’m particularly confid
 
 ## EXPERIENCE
 
-### Kintsugi - Remote
+### [Kintsugi](https://www.linkedin.com/company/kintsugi-ai/mycompany/) - Remote
 **Senior Software Engineer Consultant**  
 MARCH 2024 - JUNE 2024
 - Grew and led a fully remote team of 9 engineers across the USA, South Asia, and Vietnam.
@@ -17,7 +17,7 @@ MARCH 2024 - JUNE 2024
 - Introduced CI/CD processes for linting, formatting, type-checking, and automated testing of a Python FastAPI codebase, resulting in a 50% increase in deployment efficiency.
 - Deployed to AWS Lambda resulting in 90% cost savings for Kintsugi’s unique traffic patterns.
 
-### Telesign - Remote
+### [Telesign](https://www.linkedin.com/company/telesign/) - Remote
 **Senior Software Engineer**  
 JUNE 2020 - MARCH 2024
 - First hire on the Data Solutions Team, growing it to 9 members.
@@ -25,14 +25,14 @@ JUNE 2020 - MARCH 2024
 - Scaled services deployed to AWS to handle 10,000 requests per second with under 40ms latency.
 - Provided leadership across multiple teams to coordinate successful deliveries on tight timelines.
 
-### Ordermark - Los Angeles, CA
+### [Ordermark](https://www.linkedin.com/company/ordermark/) - Los Angeles, CA
 **Senior Software Engineer**  
 FEBRUARY 2019 - MAY 2020
 - Led effort to create automated tests resulting in 50% fewer defects.
 - Designed and implemented integrations with Point of Sale systems.
 - Owned migration from GCP AppEngine to Django on AWS.
 
-### Yelp - San Francisco, CA
+### [Yelp](https://www.linkedin.com/company/yelp-com/) - San Francisco, CA
 **Senior Software Engineer**  
 SEPTEMBER 2014 - JANUARY 2019
 - Maintained mission-critical AWS Redshift Data Warehouse ETL infrastructure.
@@ -40,7 +40,7 @@ SEPTEMBER 2014 - JANUARY 2019
 - Executed a project to support PyPy in Yelp’s core codebase, enhancing performance by 150%.
 - Mentored, reviewed code, and interviewed new engineers, fostering a collaborative team environment.
 
-### Springbox - Austin, TX
+### [Springbox](https://www.linkedin.com/company/springbox/) - Austin, TX
 **Senior Software Engineer**  
 MAY 2013 - AUGUST 2014
 - Sole developer on a full stack application for Dell using C#, SQL, and Javascript.
@@ -55,7 +55,7 @@ NOVEMBER 2012 - APRIL 2013
 AUGUST 2009 - NOVEMBER 2012
 - Developed desktop training simulations for DARPA and USAF using C++, C#, and Python.
 
-### KingsIsle Entertainment - Austin, TX
+### [KingsIsle Entertainment](https://www.linkedin.com/company/kingsisle-entertainment/) - Austin, TX
 **Software Engineer**  
 JULY 2006 - AUGUST 2009
 - Engineer on the core technology team, using C++, C#, and Python.
