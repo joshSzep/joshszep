@@ -66,7 +66,7 @@ JULY 2006 - AUGUST 2009
 2005 - 2007
 
 **Stark State College of Technology**, North Canton, OH  
-2005 - 2007
+2002 - 2005
 
 ## SKILLS
 
