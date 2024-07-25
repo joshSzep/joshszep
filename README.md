@@ -71,5 +71,5 @@ JULY 2006 - AUGUST 2009
 ## SKILLS
 
 **Languages:** Python, SQL, Terraform, Javascript  
-**Technologies:** AWS, Docker, Django, FastAPI, Kafka, Git, PostgreSQL, Redis, AI  
+**Technologies:** AWS, Docker, Django, FastAPI, Kafka, Git, PostgreSQL, Redis, AI, SQLAlchemy, React
 **Soft Skills:** Mentoring, Team Building, Code Reviews, Interviewing, Leadership
