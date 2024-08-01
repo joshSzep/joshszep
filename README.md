@@ -14,7 +14,7 @@ Senior Software Engineer with 18+ years of experience. I’m particularly confid
 MARCH 2024 - JUNE 2024
 - Grew and led a fully remote team of 9 engineers across the USA, South Asia, and Vietnam.
 - Architected and implemented backend REST API services for core product features.
-- Introduced CI/CD processes for linting, formatting, type-checking, and automated testing of a Python FastAPI codebase, resulting in a 50% increase in deployment efficiency.
+- Introduced CI/CD processes for linting, formatting, type-checking, and automated testing of a Python FastAPI codebase, resulting in a 50% decrease in defects deployed.
 - Deployed to AWS Lambda resulting in 90% cost savings for Kintsugi’s unique traffic patterns.
 
 ### [Telesign](https://www.linkedin.com/company/telesign/) - Remote
