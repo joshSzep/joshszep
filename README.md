@@ -9,10 +9,10 @@ Senior Software Engineer with 18+ years of experience. I’m particularly confid
 
 ## EXPERIENCE
 
-### [Exodus Intelligence]() - Remote
-**Staff Software Engineer**
-AUGUST 2024 - Current
- - 🤫😎🤓
+### [Exodus Intelligence](https://www.linkedin.com/company/exodus-intelligence/) - Remote
+**Staff Software Engineer**  
+AUGUST 2024 - CURRENT
+- 😎
 
 ### [Kintsugi AI](https://www.linkedin.com/company/kintsugi-ai/) - Remote
 **Senior Software Engineer Consultant**  
