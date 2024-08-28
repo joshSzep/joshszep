@@ -5,7 +5,7 @@ Los Angeles, CA - [joshszep@gmail.com](mailto:joshszep@gmail.com) - [linkedin.co
 
 ## Hello, I’m Josh!
 
-Staff Software Engineer with 18+ years of experience. I’m particularly confident in using Python for backend and data engineering. I advocate for remote work, leveraging AI, and fixing the technical interview. My passion is solving real-world problems using software. I thrive when given autonomy and ownership in a fast-moving environment.
+Staff Software Engineer with 19+ years of experience. I’m particularly confident in using Python for backend and data engineering. I advocate for remote work, leveraging AI, and fixing the technical interview. My passion is solving real-world problems using software. I thrive when given autonomy and ownership in a fast-moving environment.
 
 ## EXPERIENCE
 
