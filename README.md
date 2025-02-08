@@ -1,80 +1,88 @@
-# Joshua Szepietowski
+# Joshua Szepietowski  
 
-**Staff Software Engineer**  
-Los Angeles, CA - [joshszep@gmail.com](mailto:joshszep@gmail.com) - [linkedin.com/in/joshszep](https://www.linkedin.com/in/joshszep)
+**An Experienced Backend Software Engineer**  
+Los Angeles, CA  
+📞 (330) 204-8251  
+📧 [joshszep@gmail.com](mailto:joshszep@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/joshszep)  
 
-## Hello, I’m Josh!
+## Summary  
 
-Staff Software Engineer with 19+ years of experience. I’m particularly confident in using Python for backend and data engineering. I advocate for remote work, leveraging AI, and fixing the technical interview. My passion is solving real-world problems using software. I thrive when given autonomy and ownership in a fast-moving environment.
+Staff Backend Engineer with 20+ years of experience, specializing in **Python, Django, FastAPI, PostgreSQL**, and **scalable backend systems**. I thrive in fast-moving, high-autonomy environments, solving real-world problems through software.  
 
-## EXPERIENCE
+### Key Highlights  
+- Built **scalable backend systems** serving millions of users.  
+- Led **engineering teams**, mentoring developers & optimizing workflows.  
+- Advocated for **AI-assisted development**, enhancing productivity.  
+- **Remote-first** advocate with a passion for **async collaboration**.  
 
-### [Exodus Intelligence](https://www.linkedin.com/company/exodus-intelligence/) - Remote
-**Staff Software Engineer**  
-AUGUST 2024 - CURRENT
-- 😎
+## Experience  
 
-### [Kintsugi AI](https://www.linkedin.com/company/kintsugi-ai/) - Remote
-**Senior Software Engineer Consultant**  
-MARCH 2024 - JUNE 2024
-- Grew and led a fully remote team of 9 engineers across the USA, South Asia, and Vietnam.
-- Architected and implemented backend REST API services for core product features.
-- Introduced CI/CD processes for linting, formatting, type-checking, and automated testing of a Python FastAPI codebase, resulting in a 50% decrease in defects deployed.
-- Deployed to AWS Lambda resulting in 90% cost savings for Kintsugi’s unique traffic patterns.
+### **Exodus Intelligence - Remote**  
+**Staff Software Engineer** (August 2024 - February 2025)  
+- Redesigned and modernized an 8-year-old **GitLab-based workflow management system** for security research.  
+- Architected a **monolithic repository** for a suite of projects (backend, frontend, CLI, shared components).  
+- Developed and deployed a system using **Django, Django-Ninja, PostgreSQL**, and **Next.js/React with Tailwind CSS**.  
+- **Accelerated development 5–10x** using modern AI tools like **Cline, Windsurf, Cursor, Claude, and ChatGPT**.  
+- Built a **GitLab-based CI/CD pipeline**, reducing merge-to-deploy times to under **10 minutes**.  
+- Established **automated development standards** using **pre-commit, Just, Ruff, and UV**.  
+- Led up-skilling initiatives by creating **training videos** to empower engineers with the new architecture and toolset.  
 
-### [Telesign](https://www.linkedin.com/company/telesign/) - Remote
-**Senior Software Engineer**  
-JUNE 2020 - MARCH 2024
-- First hire on the Data Solutions Team, growing it to 9 members.
-- Architected and developed REST API microservices using Python, FastAPI, and Redis to provide B2B user trust scores from machine learning (ML) models.
-- Scaled services deployed to AWS to handle 10,000 requests per second with under 40ms latency.
-- Provided leadership across multiple teams to coordinate successful deliveries on tight timelines.
+### **Kintsugi AI - Remote**  
+**Senior Software Engineer Consultant** (March 2024 - June 2024)  
+- Grew and **led a fully remote team of 9 engineers** across the USA, South Asia, and Vietnam.  
+- Architected and implemented **backend REST API services** using **FastAPI, SQLAlchemy, and PostgreSQL**.  
+- Introduced **CI/CD pipelines** reducing defects deployed by **50%**.  
+- **Deployed to AWS Lambda**, resulting in **90% cost savings**.  
+- Instrumented **compliance measures** to achieve **SOC-2 compliance** in record time.  
 
-### [Ordermark](https://www.linkedin.com/company/ordermark/) - Los Angeles, CA
-**Senior Software Engineer**  
-FEBRUARY 2019 - MAY 2020
-- Led effort to create automated tests resulting in 50% fewer defects.
-- Designed and implemented integrations with Point of Sale systems.
-- Owned migration from GCP AppEngine to Django on AWS.
+### **Telesign - Remote**  
+**Senior Software Engineer** (June 2020 - March 2024)  
+- **First hire** on the **Data Solutions Team**, growing it to 9 members.  
+- Architected and developed **REST API microservices** using **Python, FastAPI, and Redis**.  
+- Scaled **AWS-hosted services** to handle **10,000 requests per second with <40ms latency**.  
+- Led cross-team collaborations to **coordinate successful deliveries on tight deadlines**.  
 
-### [Yelp](https://www.linkedin.com/company/yelp-com/) - San Francisco, CA
-**Senior Software Engineer**  
-SEPTEMBER 2014 - JANUARY 2019
-- Maintained mission-critical AWS Redshift Data Warehouse ETL infrastructure.
-- Founding member of Yelp’s Data Pipeline Team which designed, implemented, and maintained a novel streaming data infrastructure leveraging Apache Kafka, Python, and Docker.
-- Executed a project to support PyPy in Yelp’s core codebase, enhancing performance by 150%.
-- Mentored, reviewed code, and interviewed new engineers, fostering a collaborative team environment.
+### **Ordermark - Los Angeles, CA**  
+**Senior Software Engineer** (February 2019 - May 2020)  
+- Led **automated testing initiatives**, reducing defects by **50%**.  
+- Designed and implemented **Point of Sale (POS) system integrations**.  
 
-### [Springbox](https://www.linkedin.com/company/springbox/) - Austin, TX
-**Senior Software Engineer**  
-MAY 2013 - AUGUST 2014
-- Sole developer on a full stack application for Dell using C#, SQL, and Javascript.
+### **Yelp - San Francisco, CA**  
+**Senior Software Engineer** (September 2014 - January 2019)  
+- Maintained **mission-critical AWS Redshift ETL infrastructure**.  
+- Founding member of **Yelp’s Data Pipeline Team**, building a **Kafka-based streaming data system**.  
+- **Optimized performance by 150%** by supporting **PyPy** in Yelp’s core codebase.  
+- Mentored engineers, conducted code reviews, and interviewed new hires.  
 
-### Hotlease - Austin, TX
-**Technical Co-Founder / CTO**  
-NOVEMBER 2012 - APRIL 2013
-- Co-founded and led technical development for a lease marketplace startup.
+### **Springbox - Austin, TX**  
+**Senior Software Engineer** (May 2013 - August 2014)  
+- Sole developer on a **full-stack application for Dell** using **C#, SQL, and JavaScript**.  
 
-### Intific - Austin, TX
-**Software Engineer**  
-AUGUST 2009 - NOVEMBER 2012
-- Developed desktop training simulations for DARPA and USAF using C++, C#, and Python.
+### **Hotlease - Austin, TX**  
+**Technical Co-Founder / CTO** (November 2012 - April 2013)  
+- Co-founded and led technical development for a **lease marketplace startup**.  
 
-### [KingsIsle Entertainment](https://www.linkedin.com/company/kingsisle-entertainment/) - Austin, TX
-**Software Engineer**  
-JULY 2006 - AUGUST 2009
-- Engineer on the core technology team, using C++, C#, and Python.
+### **Intific - Austin, TX**  
+**Software Engineer** (August 2009 - November 2012)  
+- Developed **desktop training simulations** for **DARPA and USAF** using **C++, C#, and Python**.  
 
-## EDUCATION
+### **KingsIsle Entertainment - Austin, TX**  
+**Software Engineer** (July 2006 - August 2009)  
+- Member of the **Core Technology Team**, using **C++, C#, and Python**.  
 
-**The Guildhall at Southern Methodist University**, Dallas, TX  
-2005 - 2007
+## Education  
 
-**Stark State College of Technology**, North Canton, OH  
-2002 - 2005
+🎓 **The Guildhall at Southern Methodist University** – Dallas, TX (2005 - 2007)  
+🎓 **Stark State College of Technology** – North Canton, OH (2002 - 2005)  
 
-## SKILLS
+## Skills  
 
-**Languages:** Python, SQL, Terraform, Javascript  
-**Technologies:** AWS, Docker, Django, FastAPI, Kafka, Git, PostgreSQL, Redis, AI, SQLAlchemy, React  
-**Soft Skills:** Mentoring, Team Building, Code Reviews, Interviewing, Leadership
+### **Languages:**  
+Python, SQL, Terraform, JavaScript/TypeScript  
+
+### **Technologies:**  
+AWS, Docker, Django, FastAPI, SQLAlchemy, Kafka, Git, PostgreSQL, Redis, AI, React  
+
+### **Soft Skills:**  
+Mentoring, Team Building, Code Reviews, Interviewing, Leadership  
