@@ -1,6 +1,6 @@
 # Joshua Szepietowski  
 
-**An Experienced Backend Software Engineer**  
+**An Backend Software Engineer**  
 Los Angeles, CA  
 📞 (330) 204-8251  
 📧 [joshszep@gmail.com](mailto:joshszep@gmail.com)  
@@ -8,7 +8,7 @@ Los Angeles, CA
 
 ## Summary  
 
-Staff Backend Engineer with 20+ years of experience, specializing in **Python, Django, FastAPI, PostgreSQL**, and **scalable backend systems**. I thrive in fast-moving, high-autonomy environments, solving real-world problems through software.  
+Staff Engineer with 20+ years of experience, specializing in **Python, Django, FastAPI, PostgreSQL**, and **scalable backend systems**. I thrive in fast-moving, high-autonomy environments, solving real-world problems through software.  
 
 ### Key Highlights  
 - Built **scalable backend systems** serving millions of users.  
@@ -17,6 +17,10 @@ Staff Backend Engineer with 20+ years of experience, specializing in **Python, D
 - **Remote-first** advocate with a passion for **async collaboration**.  
 
 ## Experience  
+
+### **NBCUniversal - Remote**
+**Staff Software Engineer** (April 2025 - Present)
+- It's a secret, go look at my LinkedIn.
 
 ### **Exodus Intelligence - Remote**  
 **Staff Software Engineer** (August 2024 - February 2025)  
