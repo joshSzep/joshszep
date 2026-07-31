@@ -18,9 +18,18 @@ Staff Engineer with 20+ years of experience, specializing in **Python, Django, F
 
 ## Experience  
 
-### **NBCUniversal - Remote**
-**Staff Software Engineer** (April 2025 - Present)
+### **Tyba Energy - Remote**
+**Staff Software Engineer** (July 2026 - Present)
 - It's a secret, go look at my LinkedIn.
+
+### **NBCUniversal - Remote**
+**Staff Software Engineer** (April 2025 - July 2026)
+- PRISM AI Solutions team dedicated Staff Engineer.
+- Lead cross team projects including an AI agent platform with company-wide rollout.
+- Implemented a system which takes unstructured email conversations about contracts as input and uses AI to automatically populate 100+ salesforce fields.
+- Held weekly 1:1s with all team members and actively mentored through these sessions and other interactions.
+- Significantly improved, what originated as a quick POC, system architecture and enterprise readiness through relentless refactoring and test coverage improvements.
+- Built data intensive backend systems in Python, FastAPI, Azure and front end interfaces with Typescript and React.
 
 ### **Exodus Intelligence - Remote**  
 **Staff Software Engineer** (August 2024 - February 2025)  
