@@ -2,7 +2,6 @@
 
 **An Experienced Software Engineer**  
 Los Angeles, CA  
-📞 (330) 204-8251  
 📧 [joshszep@gmail.com](mailto:joshszep@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/joshszep)  
 
